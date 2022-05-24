@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "383009139068",
+    "project_id": "test-a31ed",
+    "storage_bucket": "test-a31ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383009139068:android:89297ea8374812cf1a1cf9",
+        "android_client_info": {
+          "package_name": "com.quantusti.clubw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383009139068-3ql5hk5d7sd03iq3a2v778h3dctssbml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quantusti.clubw",
+            "certificate_hash": "a1fcd2f12d1e8ee6a4f96712843178e67d6a4db7"
+          }
+        },
+        {
+          "client_id": "383009139068-i872672rks66n2epecr5f76diq9o2b76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzX21nbXPZQcoBZx06lnilXI3vsxEgciQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383009139068-i872672rks66n2epecr5f76diq9o2b76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
